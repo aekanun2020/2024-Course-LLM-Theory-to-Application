@@ -1,0 +1,1 @@
+https://aekanunbigdata.medium.com/from-pdfs-to-intelligent-answers-building-a-rag-system-with-llama-index-and-opensearch-e431ebe3955a
